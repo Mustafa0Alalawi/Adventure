@@ -1,0 +1,21 @@
+Hello and welcome to the 'Evildead Adventure'.
+
+Be sure to check the map in the file 'evildead.gif' as well.
+
+Game Explanation:
+I have expanded the forest map, added a house, and modified several locations to align with the 'Evildead' scenario.
+This adventure game is inspired by the horror movie 'Evil Dead' (2013).
+
+To Win:
+To emerge victorious, you need to collect three items: a phone, keys, and a gas tank. The path to these items is straightforward:
+
+The phone is located in the hall.
+The keys are in the second bedroom.
+The gas tank is in the workshed.
+However, there's a twist in the workshed: the door is locked, and you must solve a puzzle to access the gas tank. 
+You have the option to attempt the puzzle or bypass it using the command "solve 042".
+
+Once you have all three items, head to the parking area to escape. But be cautious!
+Entering the bedroom is a fatal mistake, as the devil lurks there, ready to end your game.
+
+If you have any questions about the game, feel free to reach out to me via Telegram at @Chr1stmaS
